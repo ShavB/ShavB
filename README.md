@@ -1,4 +1,4 @@
-### <img src="https://github.com/ShavB/ShavB/blob/master/Assets/Hi.gif" width="29px"> **Hello, there**
+### <img src="Assets/Hi.gif" width="29px"> **Hello, there**
 
 - 🔭 I’m currently working as Full stack developer.
 - 🌱 Learning React and C#.

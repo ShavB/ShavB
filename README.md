@@ -1,6 +1,6 @@
 ### <img src="Assets/Hi.gif" width="29px"> **Hello, there**
 
-- 🔭 I’m currently working as Full stack developer.
+- 🔭 I’m currently working as a Full stack developer.
 - 🌱 Learning React and C#.
 
 <a href="https://github.com/ShavB">

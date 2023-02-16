@@ -1,5 +1,5 @@
 ### <img src="Assets/Hi.gif" width="29px"> **Hello, there**
-
+### <img sec="Assets/kidSpolingAdulthood.png">
 - 🔭 I’m currently working as a Full stack developer.
 - 🌱 Learning React and C#.
 
